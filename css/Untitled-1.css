@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0px;
+	padding: 0px;
+}
+.site-header{
+	background-image:url(images/Untitled-1.png);
+	width: 100%;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-top: 0px;
+	
+	
+}
+
+.col-md-12{
+	padding: 0px;
+}
+
+.col-md-3{
+	padding: 0px;
+	margin-left: 730px;
+	margin-top: 50px;
+}
+.col-md-2{
+	margin-left: 50px;
+	padding: 0px;
+	margin-top: 50px;
+}
+.col-md-2 a{
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	padding-left:7px; 
+}
+.col-md-2 a:hover{
+	color: blue;
+}
+
+.navbar-form{
+	padding: 0px;
+	padding-left: 130px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.navbar{
+	margin: 0px;
+	
+}
+
+nav{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+}
+.collapse{
+	padding: 0px;
+}
+.navbar-collapse .nav{
+	background-color:#2CF33D;
+	width: 100%;
+   
+	
+}
+.navbar-toggle{
+	background-color:#252424;
+}
+.navbar-toggle p{
+	margin: 0px;
+	color: white;
+	font-size: 16px;
+}
+.nav-tabs {
+     border-bottom: none;
+	margin:0px;
+}
+ul li a{
+	font-size: 20px;
+	color: black;
+	
+}
+.nav li a:hover{
+	background-color:#FDFDFD;
+}
+
+
+.site-main{
+	height: auto;
+	width: 100%;
+}
+.carousel-inner img{
+	width: 100%;
+	
+}
+.carousel-inner h3{
+	font-size: 27px;
+	font-weight: bold;
+	
+	
+}
+.site-section{
+	background-color: #EFEAEA;
+	
+	height: auto;
+	width: 100%;
+	margin-bottom: 10px;
+}
+.site-section .col-md-7{
+	margin-left: 15px;
+}
+.site-section .col-md-7 h2{
+	color: #2CF33D;
+	font-size: 40px;
+}
+.site-section .col-md-7 h4{
+	color: blue;
+	font-size: 20px;
+}
+.col-md-7 p{
+	font-size: 18px;
+}
+.site-section .col-md-4{
+	margin-top: 35px;
+	margin-left: 30px;
+}
+.site-section .col-md-4 img{
+	width:80%;
+	height: 220px;
+}
+
+.site-form{
+	height: auto;
+	width: 100%;
+	clear: both;
+	margin-bottom: 20px;
+
+}
+.site-form p{
+	font-size: 18px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.site-form h1{
+	font-weight: bold;
+	color: #2CF33D;
+}
+.site-form .col-md-3{
+	margin-left: 80px;
+	margin-top: 25px;
+}
+.site-form .col-md-3 img{
+	width: 100%;
+}
+.site-form .col-md-2{
+	margin-top: 45px;
+	margin-left: 50px;
+	margin-bottom: 15px;
+}
+.site-form .col-md-2 p{
+	font-size: 18px;
+	padding-top: 10px;
+}
+
+.site-footer{
+	background-color: black;
+	height: auto;
+	clear: both;
+	
+}
+.site-footer .col-md-12{
+	margin-top: 0px;
+}
+.site-footer .col-md-3{
+	margin-left: 20px;
+}
+.site-footer h3{
+	font-weight:100;
+	color: white;
+}
+.site-footer p{
+	color: white;
+	font-size: 16px;
+}
+
+.site-footer .col-md-2 a{
+	padding-left: 0px;
+	margin-top: 50px;
+}
+
+.icon{
+	font-size: 30px;
+	color: white;
+}
+.buttom{
+	background-color: #2B2B2B;
+}
+.buttom .row p{
+	color: white;
+	font-size:20px;
+	padding-top: 10px;
+	
+}
+
